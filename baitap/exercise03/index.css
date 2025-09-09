@@ -1,0 +1,27 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: rgb(237, 75, 75);
+    color: white;
+    text-align: center;
+}
+
+#title {
+    width: 800px;
+    height: 35px;
+    display: flex;
+    flex-wrap: wrap;
+    margin: 15px auto;
+}
+
+#input-title {
+    width: 80%;
+}
+
+#btn-title {
+    width: 20%;
+}
